@@ -17,6 +17,6 @@
   <img align="center" alt="Lari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-  <img align="right" alt="Kyoukai-gif" src="https://media.giphy.com/media/te7un72Y3rIqI/giphy.gif">
+  <img align="right" height="200" width ="200" alt="Kyoukai-gif" src="https://media.giphy.com/media/te7un72Y3rIqI/giphy.gif">
 </div>
 
