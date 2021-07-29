@@ -1,11 +1,4 @@
 ### Olá!! Eu sou Larissa Cristina 👋😊
-
-- 🌱 I’m currently learning: C++
-- 🤔 I’m looking for help with: CSS
-- 📫 E-mail: larissacristina.nunes@outlook.com
-- 😄 Pronouns: ela / dela
-- ⚡ Fun fact: I looooove Astronomy/Astrophysics 🪐
-
 <div>
   <a href="https://github.com/Laregou">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laregou&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -16,7 +9,15 @@
   <img align="center" alt="Lari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
   <img align="right" height="200" width ="200" alt="Kyoukai-gif" src="https://media.giphy.com/media/te7un72Y3rIqI/giphy.gif">
+</div>
+
+##
+<div> 
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/larissacn-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
 
