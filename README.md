@@ -9,7 +9,7 @@
   <img align="center" alt="Lari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" height="200" width ="200" alt="Kyoukai-gif" src="ttps://giphy.com/gifs/Giflytics-abjahanbin-FoVzfcqCDSb7zCynOp.gif">
+  <img align="right" height="200" width ="200" alt="Kyoukai-gif" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif">
 </div>
 
 ##
