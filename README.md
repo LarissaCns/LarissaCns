@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Lari-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Lari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" height="200" width ="200" alt="-gif" src="https://gifer.com/embed/YzJM.gif">
+  <img align="right" height="200" width ="200" alt="-gif" src="https://i.pinimg.com/originals/f4/db/60/f4db60f81cbc991725789c5210a5b6e7.gif">
 </div>
 
 ##
