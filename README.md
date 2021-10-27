@@ -1,4 +1,8 @@
-### Olá!! Eu sou Larissa Cristina 😊
+- 👋 Olá, muito prazer sou Larissa Cristina.
+- 🌙 Sou estudante na Trybe, na turma XP Inc.
+- 🪐 Amante de livros, Astronomia e Tecnologia!
+- 👩🏽‍💻 Futura Desenvolvedora Web pela @betrybe.
+
 <div align="center">
   <a href="https://github.com/LarissaCns">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaCns&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
