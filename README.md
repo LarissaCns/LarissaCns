@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/LarissaCns">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaCns&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaCns&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img align="right" height="400" width ="200" alt="-gif" src="https://i.pinimg.com/originals/f4/db/60/f4db60f81cbc991725789c5210a5b6e7.gif">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaCns&layout=compact&langs_count=7&theme=dracula"/>
 </div>
