@@ -1,6 +1,6 @@
 - 👋 Olá, muito prazer sou Larissa Cristina.
 - 🌙 Sou estudante na Trybe, na turma XP Inc.
-- 🪐 Amante de livros, Astronomia e Tecnologia!
+- 🪐 Amante de livros, Astrofísica e Tecnologia!
 - 👩🏽‍💻 Futura Desenvolvedora Web pela @betrybe.
 
 <div align="center">
