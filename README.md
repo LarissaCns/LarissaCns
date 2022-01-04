@@ -1,5 +1,5 @@
 - 👋 Olá, muito prazer sou Larissa Cristina.
-- 🌙 Sou estudante na Trybe, na turma XP Inc.
+- 🌙 Sou estudante de Desenvolvimento Web Fullstack na escola de programação Trybe, turma XP Inc.
 - 🪐 Amante de livros, Astrofísica e Tecnologia!
 - 👩🏽‍💻 Futura Desenvolvedora Web pela @betrybe.
 
