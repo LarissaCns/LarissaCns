@@ -1,5 +1,5 @@
 <div align="center">
-    <img align="center" height="500" width = "1000" alt="Lari-Lofi" src="lofi_generator.png">
+    <img align="center" height="500" width = "500" alt="Lari-Lofi" src="lofi_generator.png">
 </div>
 
 - 👋 Olá, muito prazer sou Larissa Cristina.
