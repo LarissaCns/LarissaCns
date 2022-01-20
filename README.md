@@ -2,7 +2,6 @@
 <div align="center">
     <img align="center" height="400" width = "700" alt="Lari-Lofi" src="lofi_generator.png">
 </div>
-## - 👋 Olá, muito prazer sou Larissa Cristina.
 - 🌙 Sou estudante de Desenvolvimento Web Fullstack na escola de programação Trybe, turma XP Inc.
 - 🪐 Amante de livros, Astrofísica e Tecnologia!
 - 👩🏽‍💻 Futura Desenvolvedora Web pela @betrybe.
