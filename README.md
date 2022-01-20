@@ -2,9 +2,11 @@
 <div align="center">
     <img align="center" height="400" width = "700" alt="Lari-Lofi" src="lofi_generator.png">
 </div>
+<br>
 <p> 🌙 Sou estudante de Desenvolvimento Web Fullstack na escola de programação Trybe, turma XP Inc.</p>
 <p> 🪐 Amante de livros, Astrofísica e Tecnologia! </p>
 <p> 👩🏽‍💻 Futura Desenvolvedora Web pela @betrybe.</p>
+<br>
 <div align="center">
   <a href="https://github.com/LarissaCns">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaCns&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
