@@ -1,8 +1,11 @@
+<div align="center">
+    <img align="center" alt="Lari-Lofi" src="lofi_generator.png">
+</div>
+
 - 👋 Olá, muito prazer sou Larissa Cristina.
 - 🌙 Sou estudante de Desenvolvimento Web Fullstack na escola de programação Trybe, turma XP Inc.
 - 🪐 Amante de livros, Astrofísica e Tecnologia!
 - 👩🏽‍💻 Futura Desenvolvedora Web pela @betrybe.
-
 <div align="center">
   <a href="https://github.com/LarissaCns">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaCns&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
