@@ -1,5 +1,5 @@
 ## Oiii eu sou Larissa Cristina !!!
-<div style="display: inline_block">
+<div style="display: flex">
     <br>
     <p> 🌙 Sou estudante de Desenvolvimento Web Fullstack 
         na escola de programação Trybe, turma XP Inc.</p>
