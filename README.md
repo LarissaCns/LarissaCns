@@ -1,12 +1,17 @@
 ## Oiii eu sou Larissa Cristina !!!
-<div align="center">
+<div style="display: flex">
+    <div>
+    <br>
+    <p> 🌙 Sou estudante de Desenvolvimento Web Fullstack na escola de programação Trybe, turma XP Inc.</p>
+    <p> 🪐 Amante de livros, Astrofísica e Tecnologia! </p>
+    <p> 👩🏽‍💻 Futura Desenvolvedora Web pela @betrybe.</p>
+    <p> 📘 Ravenclaw / INTJ 
+    </div>
+    <div>
     <img align="center" height="400" width = "700" alt="Lari-Lofi" src="lofi_generator.png">
+    </div>
 </div>
-<br>
-<p> 🌙 Sou estudante de Desenvolvimento Web Fullstack na escola de programação Trybe, turma XP Inc.</p>
-<p> 🪐 Amante de livros, Astrofísica e Tecnologia! </p>
-<p> 👩🏽‍💻 Futura Desenvolvedora Web pela @betrybe.</p>
-<p> 📘 Ravenclaw / INTJ 
+</div>  
 <br>
 <div align="center">
   <a href="https://github.com/LarissaCns">
