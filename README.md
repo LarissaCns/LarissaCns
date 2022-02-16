@@ -8,7 +8,7 @@
     <p> 📘 Ravenclaw / INTJ 
     </div>
     <div>
-    <img align="center" height="100" width = "300" alt="Lari-Lofi" src="lofi_generator.png">
+    <img align="center" height="200" width = "300" alt="Lari-Lofi" src="lofi_generator.png">
     </div>
 </div>
 </div>  
