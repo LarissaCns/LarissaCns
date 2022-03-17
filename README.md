@@ -4,7 +4,6 @@
     <p> 🌙 Sou estudante de Desenvolvimento Web Fullstack 
         na escola de programação Trybe, turma XP Inc.</p>
     <p> 🪐 Amante de livros, Astrofísica e Tecnologia! </p>
-    <p> 👩🏽‍💻 Futura Desenvolvedora Web pela @betrybe.</p>
 </div>
 </div>  
 <br>
