@@ -34,6 +34,6 @@
  
 </div>
 <div>
-    ## Avatar By: Picrewの「Girl Maker」でつくったよ！ https://picrew.me/share?cd=iIcV1EkEil #Picrew #Girl_Maker
+    <p>Avatar By: Picrewの「Girl Maker」でつくったよ！ https://picrew.me/share?cd=iIcV1EkEil #Picrew #Girl_Maker</p>
 </div>
 
