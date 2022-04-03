@@ -33,6 +33,6 @@
  
 </div>
 <div>
-    <p>Avatar By: Picrewの「Girl Maker」でつくったよ！ https://picrew.me/share?cd=iIcV1EkEil #Picrew #Girl_Maker</p>
+    <p>Avatar By: Picrewの「Character Creator」でつくったよ！ https://picrew.me/share?cd=lTaMhkshkI #Picrew #Character_Creator</p>
 </div>
 
