@@ -10,7 +10,6 @@
 <div align="center">
   <a href="https://github.com/LarissaCns">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaCns&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img align="right" height="400" width ="300" alt="-gif" src="https://i.pinimg.com/originals/31/40/91/3140915728fcbc632b9a54d70d7b9969.gif">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaCns&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
