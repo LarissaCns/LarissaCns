@@ -1,12 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8111F7&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Larissa+Cristina+!!)](https://git.io/typing-svg)
-<div>
-    <br>
+    <p> 🌻 Tenho 21 anos, Curitibana, amante de tecnologia e ciência e desenhista nas horas vagas </p>
     <p> 🌙 Sou estudante de Desenvolvimento Web Fullstack 
         na escola de programação Trybe, turma XP Inc.</p>
-    <p> 🪐 Amante de livros, Astrofísica e Tecnologia! </p>
-</div>
-</div>  
+    <p> 📘 Atualmente estudando Banco de Dados MySQL </p>
+    <p> 🪐 Meus hobbies incluem ler livros de fantasia sem parar e video games! </p>
 <br>
+</hr>
 <div align="center">
   <a href="https://github.com/LarissaCns">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaCns&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
