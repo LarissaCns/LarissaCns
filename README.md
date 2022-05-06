@@ -6,7 +6,7 @@
     <p> 🪐 Meus hobbies incluem ler livros de fantasia sem parar e video games! </p>
 <br>
 ##
-<div style="display: inline_block">
+<div>
   <a href="https://github.com/LarissaCns">
   <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=LarissaCns&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img align="right" width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaCns&layout=compact&langs_count=7&theme=radical"/>
