@@ -1,4 +1,5 @@
 ## Oiii eu sou Larissa Cristina !!!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%6416CF&width=450&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Larissa+Cristina!;Seja+muito+bem-vindo(a).)](https://git.io/typing-svg)
 <div>
     <br>
     <p> 🌙 Sou estudante de Desenvolvimento Web Fullstack 
