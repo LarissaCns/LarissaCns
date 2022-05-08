@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8111F7&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Larissa+Cristina+!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8111F7&lines=Ol%C3%A1%2C+seja+Bem+%C3%A9+Vindo(a)+!!)](https://git.io/typing-svg)
     <p> 🌻 Tenho 21 anos, Curitibana, amante de tecnologia e ciência e desenhista nas horas vagas </p>
     <p> 🌙 Sou estudante de Desenvolvimento Web Fullstack 
         na escola de programação Trybe, turma XP Inc.</p>
