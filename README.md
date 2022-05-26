@@ -2,8 +2,8 @@
     <p> 🌻 Tenho 21 anos, Curitibana, amante de tecnologia e ciência e desenhista nas horas vagas </p>
     <p> 🌙 Sou estudante de Desenvolvimento Web Fullstack 
         na escola de programação Trybe, turma XP Inc.</p>
-    <p> 📘 Atualmente estudando Banco de Dados MySQL </p>
-    <p> 🪐 Meus hobbies incluem ler livros de fantasia sem parar e video games! </p>
+    <p> 📘 Atualmente estudando JavaScript, Node e Express </p>
+    <p> 🪐 Meus hobbies incluem ler livros, assistir séries/filmes e video games! </p>
 <br>
 ##
 <div>
