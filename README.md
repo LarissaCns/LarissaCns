@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8111F7&lines=Ol%C3%A1%2C+seja+Bem+Vindo(a)+!!)](https://git.io/typing-svg)
     <p> 🌻 Tenho 21 anos, Curitibana, amante de tecnologia e ciência e desenhista nas horas vagas </p>
     <p> 🌙 Sou estudante de Desenvolvimento Web Fullstack 
-        na escola de programação Trybe, turma XP Inc.</p>
+        na escola de programação Trybe</p>
     <p> 📘 Atualmente estudando JavaScript, Node e Express </p>
     <p> 🪐 Meus hobbies incluem ler livros, assistir séries/filmes e video games! </p>
 ##
