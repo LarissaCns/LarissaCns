@@ -1,26 +1,32 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8111F7&lines=Ol%C3%A1%2C+seja+Bem+Vindo(a)+!!)](https://git.io/typing-svg)
-    <p> 🌻 Tenho 21 anos, Curitibana, amante de tecnologia e ciência e desenhista nas horas vagas </p>
-    <p> 🌙 Sou estudante de Desenvolvimento Web Fullstack 
-        na escola de programação Trybe</p>
-    <p> 📘 Atualmente estudando JavaScript, Node e Express </p>
-    <p> 🪐 Meus hobbies incluem ler livros, assistir séries/filmes e video games! </p>
-##
+## 💜 Olá, meu nome é <strong>Larissa Cristina!</strong>
+    
+> Um pouco sobre mim !!.
+
+🔭 Estudante de Desenvolvimento Web FullStack, na escola de programação Trybe 💚.
+
+💬 Sou Curitibana, futura dev Front-end e desenhista nas horas vagas.
+
+🔭 Meus hobbies incluem: um bom livro com um cafézinho, jogos indies e meu telescópio 💜.
+
+----
 <div>
   <a href="https://github.com/LarissaCns">
   <img width=396 src="https://github-readme-stats.vercel.app/api?username=LarissaCns&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaCns&layout=compact&langs_count=7&theme=radical"/>
 </div>
-<div><br>
-  <img height="40" align="center" alt="Lari-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40"align="center"  alt="Lari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Lari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Lari-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" align="center" alt="Lari-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Angular"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
 ##
 <div> 
@@ -30,7 +36,5 @@
   ![Snake animation](https://github.com/LarissaCns/LarissaCns/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-<div>
-    <p>Avatar By: Picrewの「Character Creator」でつくったよ！ https://picrew.me/share?cd=lTaMhkshkI #Picrew #Character_Creator</p>
-</div>
+
 
