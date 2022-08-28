@@ -2,7 +2,7 @@
     
 > Um pouco sobre mim !!.
 
-<img align='right' src="[https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300](https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif)">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300(https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif)">
 
 🔭 Estudante de Desenvolvimento Web FullStack, na escola de programação Trybe 💚.
 
