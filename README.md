@@ -1,4 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Larissa Cristina!</strong>
+
+<div>
     
 > Um pouco sobre mim !!.
 
@@ -9,6 +11,8 @@
 💬 Sou Curitibana, futura dev Front-end e desenhista nas horas vagas.
 
 🔭 Meus hobbies incluem: um bom livro com um cafézinho, jogos indies e meu telescópio 💜.
+    
+</div>
 
 ----
 
