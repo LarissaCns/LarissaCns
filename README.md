@@ -9,6 +9,7 @@
 🔭 Meus hobbies incluem: um bom livro com um cafézinho, jogos indies e meu telescópio 💜.
 
 ----
+## ⭐ Informações sobre minha conta GitHub
 <div>
   <a href="https://github.com/LarissaCns">
   <img width=396 src="https://github-readme-stats.vercel.app/api?username=LarissaCns&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
