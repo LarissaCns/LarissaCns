@@ -1,11 +1,11 @@
 ## 💜 Olá, meu nome é <strong>Larissa Cristina!</strong>
-
+<div>
+    <div>
+    <img align='right' width=400px src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
+    </div>
 <div>
     
 > Um pouco sobre mim !!.
-
-<img align='right' width=400px src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
-####
 
 🔭 Estudante de Desenvolvimento Web FullStack, na escola de programação Trybe 💚.
 
@@ -13,6 +13,7 @@
 
 🔭 Meus hobbies incluem: um bom livro com um cafézinho, jogos indies e meu telescópio 💜.
     
+</div>
 </div>
 
 
