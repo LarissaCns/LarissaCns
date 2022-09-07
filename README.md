@@ -54,6 +54,7 @@
 <div> 
   <a href="https://www.instagram.com/_laregou/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larissacn-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://codepen.io/laregou" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a> 
  </div>
 
   ![Snake animation](https://github.com/LarissaCns/LarissaCns/blob/output/github-contribution-grid-snake.svg)
