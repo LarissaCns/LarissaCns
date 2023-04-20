@@ -8,7 +8,7 @@
     
 > Um pouco sobre mim !!.
 
-🔭 Estudante de Desenvolvimento Web FullStack, na escola de programação Trybe 💚.
+🔭 Estudante de Ciência da Computação.
 
 💬 Sou Curitibana, futura dev Front-end e desenhista nas horas vagas.
 
