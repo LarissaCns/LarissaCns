@@ -10,7 +10,7 @@
 
 🔭 Estudante de Ciência da Computação.
 
-💬 Sou Curitibana, futura dev Front-end e desenhista nas horas vagas.
+💬 Sou Curitibana, futura dev e desenhista nas horas vagas.
 
 🔭 Meus hobbies incluem: um bom livro com um cafézinho, jogos indies e meu telescópio 💜.
     
