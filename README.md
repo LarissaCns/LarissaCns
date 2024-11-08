@@ -2,7 +2,7 @@
 🔭 Estudante de Ciência da Computação.<br>💬 Sou Curitibana, estagiária front-end na @DMSBOX e desenhista nas horas vagas.<br>🔭 Meus hobbies incluem: um bom livro com um cafézinho, jogos indies e meu telescópio 💜.
 
 
-### 🌐 Me encontre em:
+### :cloud: Me encontre em:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/larissacn-silva/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/laregou) 
 
 ### 💻 Tech Stack:
