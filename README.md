@@ -1,4 +1,4 @@
-### 💫 About Me:
+### :thought_balloon: About Me:
 🔭 Estudante de Ciência da Computação.<br>💬 Sou Curitibana, estagiária front-end na @DMSBOX e desenhista nas horas vagas.<br>🔭 Meus hobbies incluem: um bom livro com um cafézinho, jogos indies e meu telescópio 💜.
 
 
