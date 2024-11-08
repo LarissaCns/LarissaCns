@@ -1,7 +1,5 @@
 ### 💜 Olá, Larissa Cristina aqui!
-
-> Um pouco sobre mim !!.
-<
+Um pouco sobre mim !!.
 🔭 Estudante de Ciência da Computação.
 💬 Sou Curitibana, estagiária front-end na @DMSBOX e desenhista nas horas vagas.
 🔭 Meus hobbies incluem: um bom livro com um cafézinho, jogos indies e meu telescópio 💜.
