@@ -19,9 +19,10 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
+<h2>🐍 GitHub Contribution Snake</h2>
 
-![Snake animation](https://raw.githubusercontent.com/LarissaCns/LarissaCns/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/LarissaCns/LarissaCns/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;" />
+
 
 
 
