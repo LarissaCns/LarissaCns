@@ -10,7 +10,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LarissaCns/LarissaCns/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/LarissaCns/LarissaCns/output/snake.svg" alt="Snake animation" />
 
 ###
 
