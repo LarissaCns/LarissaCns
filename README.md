@@ -19,9 +19,7 @@
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/LarissaCns/LarissaCns/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/LarissaCns/LarissaCns/output/github-contribution-grid-snake.svg)
 
-
-###
 
 
