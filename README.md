@@ -19,7 +19,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LarissaCns/LarissaCns/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/LarissaCns/LarissaCns/output/snake.svg)
 
 
 ###
