@@ -18,4 +18,5 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LarissaCns/LarissaCns/output/pacman-contribution-graph.svg">
 </picture>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
