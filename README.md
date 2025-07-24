@@ -17,6 +17,7 @@
 </picture>
 
 <img src="https://github.com/LarissaCns/LarissaCns/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/larissacns/larissacns/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake eating commits">
 
 ###
 
