@@ -22,7 +22,6 @@
 ## 🐍 GitHub Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/LarissaCns/LarissaCns/output/github-contribution-grid-snake.svg)
-|
 
 
 
