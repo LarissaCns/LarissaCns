@@ -16,8 +16,11 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/larissacns/larissacns/output/pacman-contribution-graph.svg">
 </picture>
 
-<img src="https://github.com/LarissaCns/LarissaCns/output/snake.svg" alt="Snake animation" />
-<img src="https://github.com/larissacns/larissacns/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake eating commits">
 
 ###
+
+<img src="https://raw.githubusercontent.com/LarissaCns/LarissaCns/output/snake.svg" alt="Snake animation" />
+
+###
+
 
