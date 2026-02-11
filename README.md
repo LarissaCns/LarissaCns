@@ -3,7 +3,7 @@
 
 📍 **Curitiba, PR**<br><br>
 Desenvolvedora com background Full Stack migrando para o mundo dos dados. Busco aplicar lógica de programação e arquitetura de software para resolver problemas complexos como na **Bioinformática** e **Machine Learning**.<br><br>
-* 🎓 **Educação:** B.Sc. Ciência da Computação @ Descomplica (Previsão: Fev/2027)<br>
+* 🎓 **Educação:** B.Sc. Ciência da Computação @Descomplica (Previsão: Fev/2027)<br>
 * 💻 **Foco Atual:** Python, SQL, Linux (Debian), Estatística e Cloud Computing.<br>
 * Atualmente aprendendo **Francês** 🇫🇷 como hobby.<br><br>
 📫 **Contato:** https://www.linkedin.com/in/larissacn-silva/ | larissacristina.nunes@outlook.com
