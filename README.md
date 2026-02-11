@@ -1,5 +1,5 @@
 ## 💫 About Me:
-### Larissa | CS Student & Aspiring Data Scientist<br><br>
+### Larissa | CS Student & Aspiring Data Scientist<br>
 
 📍 **Curitiba, PR**<br><br>
 Desenvolvedora com background Full Stack migrando para o mundo dos dados. Busco aplicar lógica de programação e arquitetura de software para resolver problemas complexos como na **Bioinformática** e **Machine Learning**.<br><br>
